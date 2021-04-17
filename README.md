@@ -1,4 +1,3 @@
 # hello-world
-hoge
 
-this is tutorial.
+初めてのぎとはぶ
